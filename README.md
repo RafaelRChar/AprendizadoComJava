@@ -3,7 +3,7 @@
 > #### Mudanças que fiz:
 > - Mudei um pouco a parte da classificação, das curtidas e reprodução por achar mais prático mesmo.
 > - Também não foi adicionado um for, coloquei para definir no método mesmo porque de novo achei mais prático.
->   
+> - E adicionei uma método de "MostrarFicha" pra ficar mais fácil, usando polimorfismo.
 
 ## 🎵 Desafio com Audio 🎵
 
